@@ -1,3 +1,3 @@
-# pianfan.github.io
+# m.rq.cx
 
 My Personal Blog via GitHub
