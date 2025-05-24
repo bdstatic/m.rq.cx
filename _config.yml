@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Wangshuai's blog"
+description: "王帅的个人生活博客"
 
-avatar: https://pianfan.github.io/images/avatar.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://m.rq.cx/images/avatar.jpg
+favicon: https://m.rq.cx/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -18,16 +18,15 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: iwangshuai@outlook.com
   facebook:
-  github: pianfan
+  github: bdstatic
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
-
-url: https://pianfan.github.io
+footer-text: Copyright (c) 2025 Wangshuai
+url: https://m.rq.cx
 
 permalink: /:title/
 paginate_path: /page:num/
